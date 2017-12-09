@@ -1,0 +1,14 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  IMITY.IO: Kei Kreutler
+  Site: keikreutler.cc
+  Twitter: @keikreutler
+  Location: Berlin, London, Athens
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery
+  Software:
